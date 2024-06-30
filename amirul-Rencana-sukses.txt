@@ -6,6 +6,13 @@ Code html
 Css Frame work
 - JS
 Belajar JS pemula dan asyncronus
+Vue
+React
+
 -GIT & GITHUB
+
+Daftar dan latihan
+- Front END
 kiki
-,kiek
+
+
