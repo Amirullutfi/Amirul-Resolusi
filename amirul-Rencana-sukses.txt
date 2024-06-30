@@ -7,3 +7,5 @@ Css Frame work
 - JS
 Belajar JS pemula dan asyncronus
 -GIT & GITHUB
+Daftar dan latihan
+- Front END
